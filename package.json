@@ -1,7 +1,7 @@
 {
   "name": "budoka",
   "private": true,
-  "homepage": "https://github.com/disign4u/budoka",
+  "homepage": "https://disign4u.github.io/budoka/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
